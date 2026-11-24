@@ -1,0 +1,15 @@
+{
+  "name": "code-tmLanguage",
+  "displayName": "Code",
+  "version": "1.0.0",
+  "license": "MIT",
+  "contributes": {
+    "grammars": [
+      {
+        "language": "code",
+        "scopeName": "source.code",
+        "path": "./code.tmLanguage.json"
+      }
+    ]
+  }
+}
