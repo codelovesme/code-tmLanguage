@@ -8,7 +8,7 @@
       {
         "language": "code",
         "scopeName": "source.code",
-        "path": "./code.tmLanguage.json"
+        "path": "./syntaxes/code.tmLanguage.json"
       }
     ]
   }
